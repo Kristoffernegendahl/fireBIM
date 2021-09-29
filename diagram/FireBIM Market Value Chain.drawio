@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T14:23:56.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Mg9pIroRET1tZxgkqEkY" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T14:35:34.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="rGdjsUs6TgzlYWLtm_1s" version="15.3.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,13 +33,13 @@
             <mxPoint x="270" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-3" value="FireBIM ontology" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-3" value="FireBIM ontology" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-4" target="O-F3Ail7RcBTmuWhiVfL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-4" value="FireBIM exchange format" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-4" value="FireBIM exchange format" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-5" target="O-F3Ail7RcBTmuWhiVfL-14" edge="1">
@@ -61,7 +61,7 @@
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-5" target="O-F3Ail7RcBTmuWhiVfL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-5" value="FireBIM server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-5" value="FireBIM server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-6" edge="1">
@@ -105,7 +105,7 @@
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=default;entryX=1.008;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-6" target="O-F3Ail7RcBTmuWhiVfL-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-6" value="FireBIM Web service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-6" value="FireBIM Web service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-7" edge="1">
@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-7" value="FireBIM Mobile App service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-7" value="FireBIM Mobile App service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-8" target="O-F3Ail7RcBTmuWhiVfL-15" edge="1">
@@ -138,7 +138,7 @@
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-8" target="O-F3Ail7RcBTmuWhiVfL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-8" value="FireBIM Archicad/Revit-integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-8" value="FireBIM Archicad/Revit-integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-9" target="O-F3Ail7RcBTmuWhiVfL-15" edge="1">
@@ -160,10 +160,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-9" value="FireBIM 3rd party integrations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-9" value="FireBIM 3rd party integrations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-10" value="Operation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-10" value="Operation &amp;amp; services" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="510" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-11" target="O-F3Ail7RcBTmuWhiVfL-28" edge="1">
@@ -201,7 +201,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-13" value="Fire code compliance &amp;amp; maintaince" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-13" value="Fire code compliance &amp;amp; maintaince" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="510" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-F3Ail7RcBTmuWhiVfL-14" value="Open Source Intellectual Assets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -244,13 +244,13 @@
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-23" target="O-F3Ail7RcBTmuWhiVfL-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-23" value="International Fire Regulations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-23" value="International Fire Regulations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="707" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-24" target="O-F3Ail7RcBTmuWhiVfL-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-24" value="National BIM standards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-24" value="National BIM standards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="707" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-25" target="O-F3Ail7RcBTmuWhiVfL-4" edge="1">
@@ -271,7 +271,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-25" value="International BIM standards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-25" value="International BIM standards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="707" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-26" target="O-F3Ail7RcBTmuWhiVfL-23" edge="1">
@@ -288,13 +288,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-26" value="National Fire Regulations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-26" value="National Fire Regulations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="707" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="2TjgyCzb8Htl5xwf5OyU-53" target="O-F3Ail7RcBTmuWhiVfL-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-27" value="Consumer market" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-27" value="Consumer market&lt;br&gt;roles" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="900" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-28" target="O-F3Ail7RcBTmuWhiVfL-31" edge="1">
@@ -324,11 +324,41 @@
         <mxCell id="2TjgyCzb8Htl5xwf5OyU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-33" target="2TjgyCzb8Htl5xwf5OyU-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-33" value="Building occupant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-33" value="Building owner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="707" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-F3Ail7RcBTmuWhiVfL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-33" target="O-F3Ail7RcBTmuWhiVfL-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-2" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="140" as="sourcePoint" />
+            <mxPoint x="1090" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-4" value="Academic/&lt;br&gt;research tasks" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-5" value="" style="endArrow=classic;html=1;fontSize=15;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="210" as="sourcePoint" />
+            <mxPoint x="1090" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-6" value="Company/&lt;br&gt;commercial&lt;br&gt;tasks" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-9" value="FireBIM ITEA funding" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZhK_iISjF4VqVoh4DxO-11" value="FireBIM commercial funding" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="300" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
