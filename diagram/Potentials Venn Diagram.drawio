@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T16:10:34.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="69Y8a2872AeNX5UfONkd" version="15.7.4" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7Vpdc5s4FP01fgyDwIB5bJw47ewku7Oe3fatIyOBlYDkChE7/fWVQApfzqabYg8T6gcMV0IS5xxdXV2YucvscMPhbnvLEE5njo0OM/dq5jhe6MmjMjxVhsB3KkPCCapMoDasyXesjba2FgThvFVRMJYKsmsbI0YpjkTLBjln+3a1mKXtXncwwT3DOoJp3/qZILGtrAsnqO0fMUm2pmfgh1VJBk1l/ST5FiK2b5jc65m75IyJ6iw7LHGqsDO4VPetXih9HhjHVPzMDd9u5vf/fPxjR77c+Zvl1w9X4f2fF6aZR5gW+on1aMWTgUA2I9GWF5f7LRF4vYORKtlLvqVtK7JUXgF5GpM0XbKU8fI+N4YoRJ6054KzB2xKKKOqrf7wzVAwF/jQMOnHucEsw4I/ySqmFDi2ZTd+euxaamBhBVp9+5q6uR1aoe5q22BuDgJL14ZaM8lzjzWs8kQj+z9Q9k8H8gZGC+S+BDKTzRCh8AjsgTB3QruFspF3E2LgPCPfgtjUHRxgxzshwjZ2sX8+hENPCtR9HePAmp8V46AH8R3eK89OEiJgWoINKYIc5T3sOSsowkgD/Ar+kEd6HfDsDh0a9KNMxIyKte4SmOuqHeANJH7P74rfsfouBhgOmsR4J9O+8wIxGeQPWLxfMpxgboX+axPlzGT0XX1FRs5isZePqzqlSB13u5REUBBG3y1F4eLnpktoBe5pSAKr+GLzeb9I78MLyuLl+u6v6KIf82iOMH8kEX63dBybMW54xilzlI2++5o5fio0BGVob9Zi/1uhouVLFVyWv6bJT9Q/oQIn3Ewrm1B5wAeSC0KT8nQn4dKbiNx0JMdd9VW18W75lyFyez4ujpF/5tnoDsr/v39PjVTQCcjd+QhInZ9qUps5vfwgb11dfrqd7FwGbdoBGAHtx7Zhb6c9YxsiMZwYsaATNAUj4PVYAuPtvGLIU/XECOckodXGMVGRcYwx2sDoYXKUO904eQRRcn+//yucy3+YKUboJld/HCdFajx6zbsdyyY7VWEhtowTQfDknLwbBJa7GJ+fXwy+vHNaiqHMI+04Q0UkKqhIrHfJXVn81oLj2iPQQjioFuT2TLqADNJILQgbmGOVLIlJmTnJYYxFc+WYlgJkKGDZYf26A7Qdgz8CMRjnNJAalqurMuBvhP9To1xlbGrKO+8FxrDVA8deIb6d8tX17bQpd8P/pHwMLh8Mm7O7wRQrrh9x7eqn6eEl+ZLJl15ojyJdB4bN10m8oBoYiWruoQwDn3IyuWi/yaVZ1N0xUD5sNi9KMZSbvGV5X6YEsFFZHrveEuZTj/Xn4fhyQGDY5F5306ekgCkiRSYvWHwk6I8Yml4GwJt3UkOjkMKw+cDXpVDl+Rvfl0xLBF134HpjEMGwCcLWqkBjkhTP60KR/p73Jw4E5GX9JWpZ1vic173+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T21:36:36.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hpAsgy1wRls1YMVCl6Mk" version="15.7.4" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1130.0000000000002" y="22.5" width="409.91" height="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="1316.3899999999999" y="45" width="363.61" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-25" value="&amp;lt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=none;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="990.0000000000001" y="43.75" width="365.27" height="367.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-7" value="New digital standards" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="202.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-22" value="New markets" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1274.96" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qG4jUHKpiXN6bC_AD9jO-26" value="New software and applications" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="994.27" y="206.25" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-1" value="New services" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1274.96" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-2" value="&lt;font color=&quot;#ffffff&quot;&gt;integrations in existing expert tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="290" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-3" value="&lt;font color=&quot;#ffffff&quot;&gt;VR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="340" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-4" value="&lt;font color=&quot;#ffffff&quot;&gt;integration in CAD/BIM tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="100" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-5" value="&lt;font color=&quot;#ffffff&quot;&gt;mobile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="70" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-6" value="&lt;font color=&quot;#ffffff&quot;&gt;early design stage feedback&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="205" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;regulation feedback for&amp;nbsp;authorities&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1377.38" y="110" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-8" value="&lt;font color=&quot;#ffffff&quot;&gt;international product verification&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="290" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-9" value="&lt;font color=&quot;#ffffff&quot;&gt;performance based fire safety design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1270.0900000000001" y="160" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-10" value="&lt;font color=&quot;#ffffff&quot;&gt;CFD integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1274.9600000000003" y="240" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-11" value="&lt;font color=&quot;#ffffff&quot;&gt;FEM integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1394.9600000000003" y="200" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Generative fire design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1139.7300000000002" y="280" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-13" value="&lt;font color=&quot;#ffffff&quot;&gt;parametric fire analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1129.73" y="130" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-14" value="&lt;font color=&quot;#ffffff&quot;&gt;clear, comparable regulations&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="70" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-15" value="&lt;font color=&quot;#ffffff&quot;&gt;international compendium of fire safety codes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1524.69" y="270" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-16" value="&lt;font color=&quot;#ffffff&quot;&gt;international compendium of BIM standards&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="340" width="129.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-17" value="&lt;font color=&quot;#ffffff&quot;&gt;clear, configurable rules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="130" width="129.73" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
