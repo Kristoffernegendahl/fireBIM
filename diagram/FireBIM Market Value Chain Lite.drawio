@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T20:45:37.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zRHXG2Lr0BmExq9YXPO9" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T08:19:06.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="mUCJCt0zJUyJcj1ETkNS" version="15.7.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="4L7xmNtWyarb-N4tCB3U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="O-F3Ail7RcBTmuWhiVfL-6" target="4L7xmNtWyarb-N4tCB3U-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-F3Ail7RcBTmuWhiVfL-6" value="FireBIM Web service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="O-F3Ail7RcBTmuWhiVfL-6" value="FireBIM Web service&lt;br&gt;FireBIM Add service&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="323" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-F3Ail7RcBTmuWhiVfL-10" value="Operation &amp;amp; services" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
@@ -304,7 +304,7 @@
           <mxGeometry x="1110" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g0r0Y4DcRBQkHfUcTOGN-30" value="&lt;span&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Commercial&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=middle;arcSize=10;fillColor=default;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="200" width="68.25" height="10" as="geometry" />
+          <mxGeometry x="348.88" y="205" width="68.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="g0r0Y4DcRBQkHfUcTOGN-31" value="&lt;span&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Open Source&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=middle;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="343.88" y="290" width="78.25" height="10" as="geometry" />
