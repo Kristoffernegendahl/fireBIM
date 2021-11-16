@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T21:36:36.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hpAsgy1wRls1YMVCl6Mk" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T10:37:02.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wdn4XgFYh_CJgb6D5eQz" version="15.7.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,57 +20,57 @@
           <mxGeometry x="1274.96" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qG4jUHKpiXN6bC_AD9jO-26" value="New software and applications" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="994.27" y="206.25" width="129.73" height="50" as="geometry" />
+          <mxGeometry x="990" y="210" width="129.73" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Ff-bWw8lj9-nofCSNPc-1" value="New services" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1274.96" y="390" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-2" value="&lt;font color=&quot;#ffffff&quot;&gt;integrations in existing expert tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-2" value="&lt;font&gt;integrations in existing expert tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1010" y="290" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-3" value="&lt;font color=&quot;#ffffff&quot;&gt;VR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-3" value="&lt;font&gt;VR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1190" y="340" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-4" value="&lt;font color=&quot;#ffffff&quot;&gt;integration in CAD/BIM tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-4" value="&lt;font&gt;integration in CAD/BIM tools&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1020" y="100" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-5" value="&lt;font color=&quot;#ffffff&quot;&gt;mobile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-5" value="&lt;font&gt;mobile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1180" y="70" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-6" value="&lt;font color=&quot;#ffffff&quot;&gt;early design stage feedback&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="205" width="129.73" height="50" as="geometry" />
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-6" value="&lt;font&gt;early design stage feedback&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1145.23" y="210" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;regulation feedback for&amp;nbsp;authorities&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-7" value="&lt;font&gt;&amp;nbsp;regulation feedback for&amp;nbsp;authorities&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1377.38" y="110" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-8" value="&lt;font color=&quot;#ffffff&quot;&gt;international product verification&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-8" value="&lt;font&gt;international product verification&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1370" y="290" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-9" value="&lt;font color=&quot;#ffffff&quot;&gt;performance based fire safety design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-9" value="&lt;font&gt;performance based fire safety design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1270.0900000000001" y="160" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-10" value="&lt;font color=&quot;#ffffff&quot;&gt;CFD integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-10" value="&lt;font&gt;CFD integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1274.9600000000003" y="240" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-11" value="&lt;font color=&quot;#ffffff&quot;&gt;FEM integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-11" value="&lt;font&gt;FEM integration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1394.9600000000003" y="200" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Generative fire design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-12" value="&lt;font&gt;Generative fire design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1139.7300000000002" y="280" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-13" value="&lt;font color=&quot;#ffffff&quot;&gt;parametric fire analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-13" value="&lt;font&gt;parametric fire analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1129.73" y="130" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-14" value="&lt;font color=&quot;#ffffff&quot;&gt;clear, comparable regulations&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-14" value="&lt;font&gt;clear, comparable regulations&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1490" y="70" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-15" value="&lt;font color=&quot;#ffffff&quot;&gt;international compendium of fire safety codes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-15" value="&lt;font&gt;international compendium of fire safety codes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1524.69" y="270" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-16" value="&lt;font color=&quot;#ffffff&quot;&gt;international compendium of BIM standards&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-16" value="&lt;font&gt;international compendium of BIM standards&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1470" y="340" width="129.73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Ff-bWw8lj9-nofCSNPc-17" value="&lt;font color=&quot;#ffffff&quot;&gt;clear, configurable rules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="1Ff-bWw8lj9-nofCSNPc-17" value="&lt;font&gt;clear, configurable rules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=none;fontStyle=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1540" y="130" width="129.73" height="50" as="geometry" />
         </mxCell>
       </root>
