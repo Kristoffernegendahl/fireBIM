@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T08:50:49.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.8" etag="A0zKFhC9IxpdruDPETd6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:15:22.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Uf9y_FoxpspnMzEQhJpP" version="24.2.8" type="github">
   <diagram name="Page-1" id="yCLUhUMAK_bQhqEhtBPT">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-1" value="&lt;font face=&quot;Roboto&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; color=&quot;#61648c&quot;&gt;&lt;b&gt;fire&lt;/b&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://github.com/xz/fonts/blob/master/serve/space-mono.css&quot;&gt;BIM&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontFamily=Helvetica;labelBorderColor=none;textShadow=0;spacingTop=0;spacing=0;horizontal=1;textDirection=ltr;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-7" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-45;fillStyle=solid;fillColor=#FFD966;strokeColor=none;gradientColor=#DBBB58;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="277.0712363333999" y="263.07116179498973" width="94.9520804320126" height="13.109696762831595" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-15;fillStyle=solid;fillColor=#FFD966;strokeColor=none;gradientColor=#DBBB58;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="288.3791659121214" y="283.121286255791" width="89.77287604481191" height="13.109696762831595" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-5" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-30;fillStyle=solid;fillColor=#E60000;strokeColor=none;gradientColor=#630000;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="281.95695247199257" y="263.8423204280975" width="112.2160950560149" height="23.13475899323223" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-30;fillStyle=solid;fillColor=#E60000;strokeColor=none;gradientColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="283.9768421830008" y="272.49472029156635" width="94.9520804320126" height="13.109696762831595" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-9" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-45;fillStyle=solid;fillColor=#FFD966;strokeColor=none;gradientColor=#DBBB58;opacity=50;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="281.40450400402443" y="275.0009858491665" width="61.58074016381617" height="13.109696762831595" as="geometry" />
+        </mxCell>
+        <mxCell id="PgLd9Q0U_MlhC45jrnBZ-11" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=50;rotation=-40;fillStyle=solid;fillColor=#FFD966;strokeColor=none;gradientColor=#DBBB58;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="372.89" y="269.64" width="17.98" height="4.77" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
