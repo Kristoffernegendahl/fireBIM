@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T14:06:13.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1JgBrnMS9PNhWFhXxeXz" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T14:18:23.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NgOBn1zXsdt4ON_PZVma" version="24.5.3" type="github">
   <diagram name="Page-1" id="7JQadSq6rz0EkEV6THob">
-    <mxGraphModel dx="1578" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,66 @@
         </mxCell>
         <mxCell id="1ZtEHgGZUoqVt7zV5iYi-107" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1942.5" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.researchgate.net/publication/341645894/figure/fig3/AS:895423938039812@1590497111968/Extended-IFC-based-information-modeling-processes-for-alignment-based-structures-Panels.png;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1170" width="470" height="262.65" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-111" value="Kwon, Tae &amp; Park, Sang &amp; Jang, Young-Hoon &amp; Lee, Sang-Ho. (2020). Design of Railway Track Model with Three-Dimensional Alignment Based on Extended Industry Foundation Classes. Applied Sciences. 10. 3649. 10.3390/app10103649." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040.51" y="1460" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-112" value="Geometry QA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-113" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1917.5" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-115" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GUI, UI, or just an open API?&lt;/h1&gt;&lt;div&gt;As a strategy it needs to be decided if a GUI, a dedicated UI or purely an API is needed for the backend.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1727.5" y="620" width="490" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-116" value="Property mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-117" value="Classification mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-118" value="Rule association" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="920" as="sourcePoint" />
+            <mxPoint x="1870" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-120" value="Complexity of UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-121" value="GUI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-122" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-123" value="Interim data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-124" value="modification of data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-125" value="new data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-126" value="interpretation of data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-127" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2105" y="920" as="sourcePoint" />
+            <mxPoint x="2105" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ZtEHgGZUoqVt7zV5iYi-128" value="Complexity of UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
