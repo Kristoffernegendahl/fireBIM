@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="lIOFiOd8LnlENIcjNSmW">
-    <mxGraphModel>
+    <mxGraphModel dx="2950" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-4" target="Xkx0jfkATDbCIu68pMB6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-2" value="public API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xkx0jfkATDbCIu68pMB6-1">
+          <mxGeometry x="-0.2195" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-4" target="Xkx0jfkATDbCIu68pMB6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-4" value="FireBIM&lt;br&gt;platform" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-335" y="225" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-7" target="Xkx0jfkATDbCIu68pMB6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-6" value="bSDD API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xkx0jfkATDbCIu68pMB6-5">
+          <mxGeometry x="-0.0049" y="2" relative="1" as="geometry">
+            <mxPoint x="-6" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-7" value="FireBIM&lt;br&gt;data dictionary&lt;br&gt;(e.g. bSDD)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="325" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-8" value="Rule book&lt;br&gt;data store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="70" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-8" target="Xkx0jfkATDbCIu68pMB6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-10" value="internal API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xkx0jfkATDbCIu68pMB6-9">
+          <mxGeometry x="-0.0398" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-13" target="Xkx0jfkATDbCIu68pMB6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-13" target="Xkx0jfkATDbCIu68pMB6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-13" value="Authentication&lt;div&gt;and authorization&lt;br&gt;systems (API keys, tokens,OAuth-based, IdP)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="70" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-14" value="Plugins" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="325" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-15" value="2D/3D&lt;br&gt;viewers&lt;br&gt;(IFC, BCF, SVG, PNG, (IDS))" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="435" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-16" value="FireBIM - System context diagram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="-540" y="575" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-17" value="FireBIM DD&lt;br&gt;admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="295" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-17" target="Xkx0jfkATDbCIu68pMB6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-20" target="Xkx0jfkATDbCIu68pMB6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-20" value="Rule book&lt;br&gt;admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="150" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-23" target="Xkx0jfkATDbCIu68pMB6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xkx0jfkATDbCIu68pMB6-23" target="Xkx0jfkATDbCIu68pMB6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkx0jfkATDbCIu68pMB6-23" value="FireBIM&lt;br&gt;organisation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="190" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
