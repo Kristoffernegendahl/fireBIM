@@ -1,14 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="luB2n4snwolbCdcfC4NB">
-    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-50" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="243.5" height="243.5" as="geometry" />
+        </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-4" target="F_-EiX4ZoE0ep-XaQffV-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-4" value="Start: Compartment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="130" width="180" height="40" as="geometry" />
+          <mxGeometry x="1130" y="140" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-5" target="F_-EiX4ZoE0ep-XaQffV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -17,41 +23,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-5" value="IfcZone, with attribute FireCompartment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="180" height="40" as="geometry" />
+          <mxGeometry x="1130" y="210" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-6" value="&lt;div&gt;In case of a zone denoting a (fire) compartment, the following types should be used, if applicable, as values of the ObjectType attribute:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;FireCompartment&#39;: a zone of spaces, collected to represent a single fire compartment.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;One of the purposes of a zone is to define a fire compartmentation. In this case it defines the geometric information about the fire compartment (through the contained spaces) and information, whether this compartment is ventilated or sprinkler protected. In addition the fire risk code and the hazard type can be added, the coding is normally defined within a national fire regulation. All that information is available within the relevant property sets. Again, if an independent shape has to be provided to the fire compartment, then the entity IfcSpatialZone shall be used.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="110" width="490" height="160" as="geometry" />
+          <mxGeometry x="1370" y="120" width="490" height="160" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-10" target="F_-EiX4ZoE0ep-XaQffV-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-10" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;#ba0000&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap: nowrap;&quot;&gt;Pset_SpaceOccupancyRequirements&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio));&quot;&gt;Pset_SpaceOccupancyRequirements&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="299.5" width="230" height="40" as="geometry" />
+          <mxGeometry x="1000" y="309.5" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-14" target="F_-EiX4ZoE0ep-XaQffV-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-14" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;#ba0000&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap: nowrap;&quot;&gt;Pset_SpaceFireSafetyRequirements&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio));&quot;&gt;Pset_SpaceFireSafetyRequirements&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="299.5" width="230" height="40" as="geometry" />
+          <mxGeometry x="1250" y="309.5" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-15" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; background-color: rgb(248, 248, 248);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;OccupancyNumber&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="230" height="40" as="geometry" />
+          <mxGeometry x="1000" y="390" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-28" target="F_-EiX4ZoE0ep-XaQffV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-28" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#ba0000&quot; face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap: nowrap;&quot;&gt;Pset_SpaceFireSafetyRequirements&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio));&quot;&gt;FireBIM_SpaceFireSaftyReqirements (bsdd)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="300" width="230" height="40" as="geometry" />
+          <mxGeometry x="1520" y="310" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-30" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Helvetica, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248);&quot;&gt;ConnectedToFireExitNumber&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="380" width="230" height="40" as="geometry" />
+          <mxGeometry x="1250" y="390" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-33" target="F_-EiX4ZoE0ep-XaQffV-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="410" />
-              <mxPoint x="910" y="470" />
-              <mxPoint x="515" y="470" />
+              <mxPoint x="1510" y="420" />
+              <mxPoint x="1510" y="480" />
+              <mxPoint x="1115" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,13 +68,79 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-33" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#ba0000&quot; face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap: nowrap;&quot;&gt;Pset_SpaceFireSafetyRequirements&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio));&quot;&gt;FireBIM LOGIC CODE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="380" width="230" height="40" as="geometry" />
+          <mxGeometry x="1520" y="390" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-34" value="Function of the code can be simple . e.g.&lt;br&gt;the example in Figure 1&lt;br&gt;but it could (for regions or contries or under circumstanse where sprinklers are present) be more complex and require a spatial distance call, or similar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="539" width="210" height="30" as="geometry" />
+          <mxGeometry x="1530" y="549" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_-EiX4ZoE0ep-XaQffV-39" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="945" y="440" width="180" height="40" as="geometry" />
+          <mxGeometry x="1545" y="450" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-41" target="F_-EiX4ZoE0ep-XaQffV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-41" target="F_-EiX4ZoE0ep-XaQffV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-41" value="IDS Validation process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-42" target="F_-EiX4ZoE0ep-XaQffV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-42" target="F_-EiX4ZoE0ep-XaQffV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-42" value="IFC model" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-44" value="BCF/other feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-47" value="model checks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-48" target="F_-EiX4ZoE0ep-XaQffV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-48" value="&lt;div&gt;F(x)=y&lt;/div&gt;logical functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="249.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-49" value="failed checks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-50" value="human feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-52" value="Rule &quot;evaluation&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="263.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-54" target="F_-EiX4ZoE0ep-XaQffV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-54" value="IDS Validation process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-57" value="BCF/other feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="128.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-58" target="F_-EiX4ZoE0ep-XaQffV-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-58" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-44" target="F_-EiX4ZoE0ep-XaQffV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_-EiX4ZoE0ep-XaQffV-57" target="F_-EiX4ZoE0ep-XaQffV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-66" value="1st level IDS use" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="233.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_-EiX4ZoE0ep-XaQffV-67" value="2nd level IDS use" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
