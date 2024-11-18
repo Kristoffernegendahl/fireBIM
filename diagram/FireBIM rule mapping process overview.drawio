@@ -46,17 +46,37 @@
         <mxCell id="cowbU3c1tZKaxY06-JKs-15" value="Allow the expert to review and refine IFC mappings to ensure alignment with both the rule intent and the IFC model schema, This process also helps to simplify/harmonize the ontology relying on IFC" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="1110" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cowbU3c1tZKaxY06-JKs-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 9: BSDD Update&lt;/h1&gt;&lt;p&gt;The FireBIM rule book on BSDD is updated. Based on the accepted RDF graph in Step 8. This step can only be done by selected FireBIM admin users who have the authority to update the BSDD.&amp;nbsp; &amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cowbU3c1tZKaxY06-JKs-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 9: BSDD Update&lt;/h1&gt;&lt;p&gt;The FireBIM rule book on BSDD is updated. Based on the accepted RDF graph in Step 8. This step can only be done by selected FireBIM admin users who have the authority to update the BSDD.&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1280" width="700" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cowbU3c1tZKaxY06-JKs-17" value="The updating process on BSDD has to further developed as it needs to secure updates to existing fire codes, inclusion of new codes and staging of BSDD in reliable ways for future use." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="1280" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cowbU3c1tZKaxY06-JKs-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 1:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;IDS Generation&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;The FireBIM can g&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;enerate IDS Specifications&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cowbU3c1tZKaxY06-JKs-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IDS Generation system&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;The FireBIM can g&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;enerate IDS Specifications&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;for each rule, detailing the required data from the IFC model to validate compliance&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1560" width="700" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cowbU3c1tZKaxY06-JKs-19" value="The updating process on BSDD has to further developed as it needs to secure updates to existing fire codes, inclusion of new codes and staging of BSDD in reliable ways for future use." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="cowbU3c1tZKaxY06-JKs-19" value="This FireBIM IDS system are using the BSDD rule book as its primary source of truth, however it needs additional information from a central repository of how implicit checks need to be performed" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="1560" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cowbU3c1tZKaxY06-JKs-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Extract EIR based on IFC 4.3&lt;/h1&gt;&lt;div&gt;Ability to&amp;nbsp; extract mappings from IFC entities, attributes, and relationships (e.g., &lt;code&gt;IfcWall.Height&lt;/code&gt;). FOR EACH rule&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1670" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cowbU3c1tZKaxY06-JKs-21" value="FireBIM rule book contains:&lt;br&gt;?&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1380" width="180" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="https://bsdd.ontotext.com/README.html&#xa;https://linkedbuildingdata.net/ldac2023/files/papers/papers/LDAC2023_paper_1547.pdf" link="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://linkedbuildingdata.net/ldac2023/files/papers/papers/LDAC2023_paper_1547.pdf" id="cowbU3c1tZKaxY06-JKs-22">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="460" y="1459" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cowbU3c1tZKaxY06-JKs-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fire Expert-Driven Refinement&lt;/h1&gt;&lt;div&gt;Ability to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;adjust IDS content based on project-specific needs (e.g., exceptions, building types).&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User-defined filter the IDS to limit scope or focus on certain checks (e.g., &quot;only external walls&quot;)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1760" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cowbU3c1tZKaxY06-JKs-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Model-Driven Refinement&lt;/h1&gt;&lt;div&gt;Ability to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;adjust IDS content based on model content (e.g. use address to filter for country)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Model-defined filter the IDS to limit scope or focus on certain checks (e.g., &quot;only external walls&quot;)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1870" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cowbU3c1tZKaxY06-JKs-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;IDS requirement specifying the implicit method&lt;/h1&gt;&lt;div&gt;Ability to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;adjust IDS content to retrieve &quot;manual&quot; input derived from expert knowledge&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ability to adjust IDS content to retrieve &quot;algorithmic&quot; input derived from model and code analyis&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1980" width="700" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
